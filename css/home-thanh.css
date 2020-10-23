@@ -1,0 +1,165 @@
+body{
+
+}
+section{
+    float: left;
+}
+.header{
+    background-color: #d11a59;
+    color: white;
+}
+.floatleft{
+    float: left;
+}
+.floatright{
+    float: right;
+}
+.ulngang{
+font-size: 14px;
+    margin: 0;
+    padding: 0;
+}
+
+.ulngang li{
+    list-style: none;
+    float: right;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+.xuong{
+    padding-top: 5px;
+}
+.vuong{
+    width: 40px;
+    height: 40px;
+    box-sizing: border-box;
+}
+.anhchinh{
+    float: none;
+    padding-left: 98px;
+}
+.dc{
+font-size: 10px;
+}
+.linktrang{
+    color: white;
+}
+.linkkomau{
+    color: whitesmoke;
+}
+.linkkomau:hover{
+    color: white;
+    text-decoration: none;
+}
+.linktrang:hover{
+    color: white;
+    text-decoration: none;
+}
+.mautrang{
+    color: white;
+}
+.tron{
+    border-radius: 100%;
+}
+.xanhfb{
+    background-color: #3a589d;
+}
+.xanhins{
+    background-color: #3b6994;
+}
+.xanhdt{
+    background-color: #51cb5a;
+}
+.denmail{
+    background-color: #111111;
+}
+.roll{
+    padding-right: -20px;
+    padding-left: -20px;
+}
+.dopin{
+background-color: #cb2320;
+}
+.tuade{
+    color: #777;
+    text-transform: uppercase;
+    margin-bottom: -10px;
+}
+.tuade2{
+    color: #f1f1f1;
+    text-transform: uppercase;
+    margin-bottom: -10px;
+}
+.mau2{
+    color: #f1f1f1;
+}
+.ulnostyle{
+    list-style: none;
+    padding: 0;
+}
+.benduoi1{
+    background-color: #777777;
+}
+.vien{
+    border: 2px solid white;
+    margin-right: 5px;
+}
+.fb{
+    text-align: center;
+    padding: 5px;
+    font-size: 20px;
+}
+.benduoi2{
+    background-color: #5b5b5b;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #acacac ;
+}
+.nenfb{
+    background-color: unset;
+}
+.nenfb:hover{
+    background-color: #3a589d;
+}
+.nenins{
+    background-color: unset;
+}
+.nenins:hover{
+    background-color: #3b6994;
+}
+.nentele{
+    background-color: unset;
+}
+.nentele:hover{
+    background-color: #51cb5a;
+}
+.badge{
+    border: 2px solid #f1f1f1;
+}
+img{
+    max-width: 100%;
+}
+.abc{
+    float: right;
+    margin: 0;
+    position: fixed;
+    z-index: 10;
+    font-size: 40px;
+    top: 85%;
+    right: 0%;
+}
+.linkxanh{
+    color: #28a4c9;
+    font-size: 40px;
+}
+.linkxanh:hover{
+    color: #28a4c9;
+}
+.botron{
+    background-color: #d11a59;!important;
+    color: white;
+    font-size: 24px;
+    padding: 4px 8px;
+    border-radius: 6px;
+}
+
