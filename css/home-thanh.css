@@ -1,8 +1,9 @@
 body{
-
+    font-family: 'Roboto', sans-serif;
 }
 section{
     float: left;
+    width: 100%;
 }
 .header{
     background-color: #d11a59;
@@ -73,6 +74,9 @@ font-size: 10px;
 .denmail{
     background-color: #111111;
 }
+.searchform{
+    font-size: 25px;
+}
 .roll{
     padding-right: -20px;
     padding-left: -20px;
@@ -97,6 +101,10 @@ background-color: #cb2320;
     list-style: none;
     padding: 0;
 }
+.margintopbot{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 .benduoi1{
     background-color: #777777;
 }
@@ -105,6 +113,9 @@ background-color: #cb2320;
 }
 .textright{
     text-align: right;
+}
+.ss{
+    margin-top: 20px ;
 }
 .gach{
     border-bottom: 1px solid #f1f1f1 ;
@@ -165,6 +176,18 @@ img{
 .linkxanh:hover{
     color: #28a4c9;
 }
+.aside{
+    float: left;
+    width: 25%;
+    padding-right: 15px;
+
+}
+.content{
+    float: left;
+    width: 75%;
+    padding-left: 15px;
+
+}
 .link{
     text-decoration: none;
     color: #333333;
@@ -187,4 +210,8 @@ img{
 }
 .gachc{
     padding-bottom: 50px;
+}
+.vien1px{
+    border: 1px solid #f1f1f1;
+    border-right: 0;
 }
