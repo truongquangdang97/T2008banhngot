@@ -283,14 +283,13 @@
 .B img{
     max-width: 100%;
 }
-.X ul{
-    margin-right:auto;
-    margin-left: auto;
-
+.X{
+    padding-top: 20px;
 }
 .X li{
     list-style: none;
     margin-left: 20px;
+    text-align: center;
 }
 .z1{
     padding: 10px 15px;
@@ -298,16 +297,9 @@
     background-color:#67b168;
     border-radius: 100%;
 }
-
-
-
-
-
-
-
-
-
-
+.height40px{
+    height: 30px;
+}
 
 
 
