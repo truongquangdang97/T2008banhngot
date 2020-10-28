@@ -16,7 +16,7 @@ function aside(){
         "                        <div class=\"ctt-2\"></div>\n" +
         "                        <ul>\n" +
         "                            <li class=\"ctt-4-1\"><a class=\"ctt-4-2\" href=\"https://tokyogateaux.vn/banh-sinh-nhat/banh-sinh-nhat/banh-3-tang/\">Bánh sinh nhật hiện đại</a></li>\n" +
-        "                            <li class=\"ctt-4-1\"><a class=\"ctt-4-3\" href=\"https://tokyogateaux.vn/banh-sinh-nhat/banh-sinh-nhat/banh-3-tang/\"><b>Bánh sinh nhật bé trai</b></a></li>\n" +
+        "                            <li class=\"ctt-4-1\"><a class=\"ctt-4-2\" href=\"https://tokyogateaux.vn/banh-sinh-nhat/banh-sinh-nhat/banh-3-tang/\">Bánh sinh nhật bé trai</a></li>\n" +
         "                            <li class=\"ctt-4-1\"><a class=\"ctt-4-2\" href=\"https://tokyogateaux.vn/banh-sinh-nhat/banh-sinh-nhat/banh-3-tang/\">Bánh sinh nhật bé gái</a></li>\n" +
         "                        </ul>\n" +
         "                    </div>\n" +
