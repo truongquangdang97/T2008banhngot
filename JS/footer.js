@@ -1,5 +1,5 @@
 function footer(){
-    return"<div class=\"col-md-12 gach\"></div>\n" +
+    return" <div class=\"col-md-12 gach\"></div>\n" +
         "    <div class=\"container\">\n" +
         "            <div class=\"row\">\n" +
         "                <div class=\"col-md-3\">\n" +
@@ -11,14 +11,14 @@ function footer(){
         "                    </div>\n" +
         "                    <ul class=\"ulnostyle paddingtop\">\n" +
         "                        <li><a class=\"link\" href=\"https://tokyogateaux.vn/san-pham/banh-sinh-nhat-vuong-hoa-kem-tuoi-hacisco-sz22x28/\">\n" +
-        "                            <img class=\"imgfooter row col-md-4\" src=\"img/anh footer/20-400x400.jpg\" width=\"400\"/>\n" +
+        "                            <img class=\"imgfooter row col-md-4\" srcset=\"https://tokyogateaux.vn/wp-content/uploads/2020/10/20-100x100.jpg 100w, https://tokyogateaux.vn/wp-content/uploads/2020/10/20-400x400.jpg 400w, https://tokyogateaux.vn/wp-content/uploads/2020/10/20-280x280.jpg 280w, https://tokyogateaux.vn/wp-content/uploads/2020/10/20-768x768.jpg 768w, https://tokyogateaux.vn/wp-content/uploads/2020/10/20-500x500.jpg 500w, https://tokyogateaux.vn/wp-content/uploads/2020/10/20.jpg 800w\">\n" +
         "                            <span class=\"col-md-8 rowphai\" > Bánh sinh nhật vuông hoa kem tươi Hacisco sz22x28</span>\n" +
         "                            <span class=\"text-right row col-md-12\"><bdi><b>550.000₫<p class=\"gach\">\n" +
         "                            </p></b></bdi></span>\n" +
         "                            </a>\n" +
         "                        </li>\n" +
         "                        <li><a class=\"link\" href=\"https://tokyogateaux.vn/san-pham/banh-sinh-nhat-vuon-hong-tra-sz2535/\">\n" +
-        "                            <img class=\"imgfooter row col-md-4\" alt=\"\" loading=\"lazy\" data-srcset=\"https://tokyogateaux.vn/wp-content/uploads/2020/10/24-100x100.jpg 100w, https://tokyogateaux.vn/wp-content/uploads/2020/10/24-400x400.jpg 400w, https://tokyogateaux.vn/wp-content/uploads/2020/10/24-280x280.jpg 280w, https://tokyogateaux.vn/wp-content/uploads/2020/10/24-768x768.jpg 768w, https://tokyogateaux.vn/wp-content/uploads/2020/10/24-500x500.jpg 500w, https://tokyogateaux.vn/wp-content/uploads/2020/10/24.jpg 800w\" data-src=\"https://tokyogateaux.vn/wp-content/uploads/2020/10/24-100x100.jpg\" src=\"https://tokyogateaux.vn/wp-content/uploads/2020/10/24-100x100.jpg\" srcset=\"https://tokyogateaux.vn/wp-content/uploads/2020/10/24-100x100.jpg 100w, https://tokyogateaux.vn/wp-content/uploads/2020/10/24-400x400.jpg 400w, https://tokyogateaux.vn/wp-content/uploads/2020/10/24-280x280.jpg 280w, https://tokyogateaux.vn/wp-content/uploads/2020/10/24-768x768.jpg 768w, https://tokyogateaux.vn/wp-content/uploads/2020/10/24-500x500.jpg 500w, https://tokyogateaux.vn/wp-content/uploads/2020/10/24.jpg 800w\">\n" +
+        "                            <img class=\"imgfooter row col-md-4\"srcset=\"https://tokyogateaux.vn/wp-content/uploads/2020/10/24-100x100.jpg 100w, https://tokyogateaux.vn/wp-content/uploads/2020/10/24-400x400.jpg 400w, https://tokyogateaux.vn/wp-content/uploads/2020/10/24-280x280.jpg 280w, https://tokyogateaux.vn/wp-content/uploads/2020/10/24-768x768.jpg 768w, https://tokyogateaux.vn/wp-content/uploads/2020/10/24-500x500.jpg 500w, https://tokyogateaux.vn/wp-content/uploads/2020/10/24.jpg 800w\">\n" +
         "                            <span class=\"col-md-8 rowphai\" > Bánh sinh nhật vườn hồng trà sz25*35</span>\n" +
         "                            <span class=\"text-right row col-md-12\"><bdi><b>750.000₫<p class=\"gach\"></p></b></bdi></span>\n" +
         "                            </a>\n" +
