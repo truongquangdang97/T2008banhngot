@@ -227,9 +227,8 @@ img{
 .content-body{
     float: left;
     max-width: 400px;
-    width: 100%;
 }
-.aside{
+.article{
     float: left;
     width: 75%;
     padding: 20px 0 0 15px;
@@ -238,6 +237,7 @@ img{
     color: #777;
 }
 .content-2{
+    border-radius: 99px;
     height: 3px;
     background-color: rgba(0,0,0,0.1);
     max-width: 30px;
@@ -309,22 +309,22 @@ img{
 .content-5{
     padding: 10px 0;
 }
-.aside{
+.article{
     padding-bottom: 60px;
     text-align: center;
     color: #777;
 }
-.aside h2{
+.article h2{
     color: #555;
     font-size: 26px;
 }
-.aside-1{
+.article-1{
     position: absolute;
     top: 10px;
     right: 25px;
     z-index: -10;
 }
-.aside-1 i{
+.article-1 i{
     border: 2px solid silver;
     color: silver;
     padding-top: 7px;
@@ -335,38 +335,38 @@ img{
     border-radius: 100%;
     transition: .3s;
 }
-.aside-1 i:hover{
+.article-1 i:hover{
     color: white;
     background-color: #9f171e;
     border: 2px solid #9f171e;
 }
-.item:hover .aside-1{
+.item:hover .article-1{
     z-index: 10;
 }
-.aside-2{
+.article-2{
     padding: 10px 0;
 }
-.aside-2-1{
+.article-2-1{
     font-size: 12px;
 }
-.aside-2-2{
+.article-2-2{
     color: #334882;
     cursor: pointer;
 }
-.aside-2-2:hover{
+.article-2-2:hover{
     color: #222;
     text-decoration: none;
 }
-.aside-2-3{
+.article-2-3{
 
     font-weight: bold;
     color: black;
 }
-.aside-3{
+.article-3{
     padding-left: 48px;
     padding-bottom: 35px;
 }
-.aside-3-1{
+.article-3-1{
     width: 120px;
     height: 30px;
     font-size: 12px;
@@ -377,7 +377,7 @@ img{
     transition: .3s;
     cursor: pointer;
 }
-.aside-3-1:hover{
+.article-3-1:hover{
     background-color: #a71245;
 }
 .chap{
