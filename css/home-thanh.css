@@ -16,7 +16,7 @@ section{
     float: right;
 }
 .ulngang{
-font-size: 14px;
+    font-size: 14px;
     margin: 0;
     padding: 0;
 }
@@ -40,7 +40,7 @@ font-size: 14px;
     padding-left: 98px;
 }
 .dc{
-font-size: 10px;
+    font-size: 10px;
 }
 .linktrang{
     color: white;
@@ -82,7 +82,7 @@ font-size: 10px;
     padding-left: -20px;
 }
 .dopin{
-background-color: #cb2320;
+    background-color: #cb2320;
 }
 .uppercase{
     text-transform: uppercase;
@@ -104,7 +104,10 @@ background-color: #cb2320;
     list-style: none;
     padding: 0;
 }
-
+.margintopbot{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 .benduoi1{
     background-color: #777777;
 }
@@ -194,10 +197,16 @@ img{
     text-decoration: none;
     color: #333333;
 }.link:hover{
-    text-decoration: none;
-    color: #333333;
+     text-decoration: none;
+     color: #333333;
+ }
+.botron{
+    background-color: #d11a59;!important;
+    color: white;
+    font-size: 24px;
+    padding: 4px 16px;
+    border-radius: 99px;
 }
-
 .paddingtop{
     padding-top: 30px;
 }
@@ -248,8 +257,4 @@ img{
 }
 .boxcon:hover i{
     transform: scale(1.1);
-}
-.divbangnhau{
-    padding-bottom: 500em;
-    margin-bottom: -500em;
 }

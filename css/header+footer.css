@@ -1,0 +1,169 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.header{
+    background-color: #d11a59;
+    color: white;
+}
+.floatleft{
+    float: left;
+}
+.floatright{
+    float: right;
+}
+.linkkomau{
+     color: whitesmoke;
+ }
+.linkkomau:hover{
+    color: white;
+    text-decoration: none;
+}
+.xuong{
+    padding-top: 5px;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.vuong{
+    width: 40px;
+    height: 40px;
+    box-sizing: border-box;
+}
+.linktrang{
+    color: white;
+}
+.linktrang:hover{
+    color: white;
+    text-decoration: none;
+}
+.vien{
+    border: 2px solid white;
+    margin-right: 5px;
+}
+.ulngang{
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+}
+.ulngang li{
+    list-style: none;
+    float: right;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+.linkxanh{
+    color: #28a4c9;
+    font-size: 40px;
+}
+.linkxanh:hover{
+    color: #28a4c9;
+}
+.mautrang{
+    color: white;
+}
+.tron{
+    border-radius: 100%;
+}
+.xanhfb{
+    background-color: #3a589d;
+}
+.xanhins{
+    background-color: #3b6994;
+}
+.xanhdt{
+    background-color: #51cb5a;
+}
+.fb{
+    text-align: center;
+    padding: 5px;
+    font-size: 20px;
+}
+.denmail{
+    background-color: #111111;
+}
+.dopin{
+    background-color: #cb2320;
+}
+.gach{
+    border-bottom: 1px solid #f1f1f1 ;
+    padding-bottom: 5px;
+}.tuade{
+     color: #777;
+     text-transform: uppercase;
+     margin-bottom: -10px;
+ }
+.tuade2{
+    color: #f1f1f1;
+    text-transform: uppercase;
+    margin-bottom: -10px;
+}
+.link{
+    text-decoration: none;
+    color: #333333;
+}.link:hover{
+     text-decoration: none;
+     color: #333333;
+ }
+
+.gachc{
+     padding-bottom: 50px;
+ }
+.ulnostyle{
+    list-style: none;
+    padding: 0;
+}
+.paddingtop{
+    padding-top: 30px;
+}
+.paddingtop2{
+    padding-top: 20px;
+}
+.benduoi1{
+    background-color: #777777;
+}
+.nenfb{
+    background-color: unset;
+}
+.nenfb:hover{
+    background-color: #3a589d;
+}
+.nenins{
+    background-color: unset;
+}
+.nenins:hover{
+    background-color: #3b6994;
+}
+.nentele{
+    background-color: unset;
+}
+.nentele:hover{
+    background-color: #51cb5a;
+}
+.mau2{
+    color: #f1f1f1;
+}
+.badge1 {
+    border: 2px solid #f1f1f1;
+}
+.abc{
+    float: right;
+    margin: 0;
+    position: fixed;
+    z-index: 10;
+    font-size: 40px;
+    top: 85%;
+    right: 0%;
+}
+.size40{
+    font-size: 40px;
+}
+img{
+     max-width: 100%;
+ }
+.botron{
+    background-color: #d11a59;!important;
+    color: white;
+    font-size: 24px;
+    padding: 4px 16px;
+    border-radius: 99px;
+}
