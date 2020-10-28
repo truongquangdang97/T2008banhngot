@@ -219,12 +219,12 @@ img{
 .top-right-3-2{
     color: black;
 }
-.content{
+.ctt{
     float: left;
     width: 25%;
     padding: 20px 15px 0 0;
 }
-.content-body{
+.ctt-body{
     float: left;
     max-width: 400px;
 }
@@ -233,30 +233,30 @@ img{
     width: 75%;
     padding: 20px 0 0 15px;
 }
-.content-1{
+.ctt-1{
     color: #777;
 }
-.content-2{
+.ctt-2{
     border-radius: 99px;
     height: 3px;
     background-color: rgba(0,0,0,0.1);
     max-width: 30px;
 }
-.content-3{
+.ctt-3{
     padding-top: 13px;
 }
-.content-3-1{
+.ctt-3-1{
     width: 265px;
     height: 39px;
     border: 1px solid #ddd;
     box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
     padding: 10px;
 }
-.content-3-1:focus{
+.ctt-3-1:focus{
     outline: none;
     box-shadow: 0 0 10px 1px #ddd;
 }
-.content-3-2{
+.ctt-3-2{
     width: 40px;
     height: 38.800px;
     border: none;
@@ -266,47 +266,47 @@ img{
     background: #d11a59;
     transition: .3s;
 }
-.content-3-2:hover{
+.ctt-3-2:hover{
     background-color: #a71245;
 }
-.content-3-3{
+.ctt-3-3{
     color: white;
     font-size: 18px;
     margin-top: 5px;
 }
-.content-4{
+.ctt-4{
   padding-top: 20px;
 }
-.content-4 ul{
+.ctt-4 ul{
     padding-top: 15px;
 }
-.content-4 li{
+.ctt-4 li{
     list-style: none;
     padding: 6px 0;
 }
-.content-4-1{
+.ctt-4-1{
     width: 300px;
     border-bottom: 1px solid #d4d4d4;
 }
-.content-4-2{
+.ctt-4-2{
     font-size: 15px;
     color: #334882;
 }
-.content-4-2:hover{
+.ctt-4-2:hover{
     color: #222;
     text-decoration: none;
 }
-.content-4-3{
+.ctt-4-3{
     color: black;
 }
-.content-4-3:hover{
+.ctt-4-3:hover{
     color: black;
     text-decoration: none;
 }
-.content-4-4{
+.ctt-4-4{
     width: 300px;
 }
-.content-5{
+.ctt-5{
     padding: 10px 0;
 }
 .article{
@@ -522,7 +522,7 @@ img{
 .zalo2{
     width: 50px;
     height: 50px;
-    background-image: url("https://tokyogateaux.vn/wp-content/uploads/2020/08/zalo-1.png");
+    background-image: url("https://tokyogateaux.vn/wp-ctt/uploads/2020/08/zalo-1.png");
     background-size: 50px 50px;
 }
 .button{
@@ -544,6 +544,6 @@ img{
 .mess2{
     width: 50px;
     height: 50px;
-    background-image: url("https://tokyogateaux.vn/wp-content/uploads/2020/08/fb-logo.png");
+    background-image: url("https://tokyogateaux.vn/wp-ctt/uploads/2020/08/fb-logo.png");
     background-size: 50px 50px;
 }
