@@ -84,6 +84,9 @@ font-size: 10px;
 .dopin{
 background-color: #cb2320;
 }
+.uppercase{
+    text-transform: uppercase;
+}
 .tuade{
     color: #777;
     text-transform: uppercase;
@@ -165,9 +168,11 @@ img{
     margin: 0;
     position: fixed;
     z-index: 10;
-    font-size: 40px;
     top: 85%;
     right: 0%;
+}
+.size40{
+    font-size: 40px;
 }
 .linkxanh{
     color: #28a4c9;
@@ -199,8 +204,8 @@ img{
     background-color: #d11a59;!important;
     color: white;
     font-size: 24px;
-    padding: 4px 8px;
-    border-radius: 6px;
+    padding: 4px 16px;
+    border-radius: 99px;
 }
 .paddingtop{
     padding-top: 30px;
@@ -214,4 +219,46 @@ img{
 .vien1px{
     border: 1px solid #f1f1f1;
     border-right: 0;
+}
+.marginbot{
+    margin-bottom: 30px;
+}
+.bgachngang{
+    display: flex;
+    align-items: center;
+}
+.center{
+    text-align: center;
+}
+.bgachngang b{
+    display: block;
+    flex: 1;
+    height: 2px;
+    opacity: .1;
+    background-color: currentColor;
+}
+.bgachngang span{
+    margin: 0 15px;
+}
+.borderright{
+    border-right: 2px solid #f1f1f1;
+}
+.borderleft{
+    border-left: 2px solid #f1f1f1;
+}
+.hovericon{
+    box-sizing: border-box;
+
+    overflow: hidden;
+}
+.boxcon p{
+    font-size: 16px;
+    line-height: 1.5;
+}
+.boxcon:hover i{
+    transform: scale(1.1);
+}
+.divbangnhau{
+    padding-bottom: 500em;
+    margin-bottom: -500em;
 }
