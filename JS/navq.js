@@ -1,5 +1,5 @@
 function navq(){
-    "    <div class=\"container nav1\">\n" +
+    return  "    <div class=\"container nav1\">\n" +
     "        <div class=\"row\">\n" +
     "            <div class=\"d\">\n" +
     "                <ul>\n" +
