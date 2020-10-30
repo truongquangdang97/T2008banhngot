@@ -525,14 +525,14 @@ img{
     background-image: url("https://tokyogateaux.vn/wp-ctt/uploads/2020/08/zalo-1.png");
     background-size: 50px 50px;
 }
-.button{
+.bt{
     position: absolute;
     width: 50px;
     height: 50px;
     background-color: transparent;
     border: none;
 }
-.button:focus{
+.bt:focus{
     outline: none;
 }
 .mess{
