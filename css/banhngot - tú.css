@@ -321,12 +321,12 @@ img{
 .article-1{
     position: absolute;
     top: 10px;
-    right: 15px;
+    right: 25px;
     z-index: -10;
 }
 .article-1 i{
     border: 2px solid silver;
-    color: #1b6d85;
+    color: silver;
     padding-top: 7px;
     text-align: center;
     width: 30px;
@@ -522,7 +522,7 @@ img{
 .zalo2{
     width: 50px;
     height: 50px;
-    background-image: url("https://tokyogateaux.vn/wp-ctt/uploads/2020/08/zalo-1.png");
+    background-image: url("../imgs/zalo-1.png");
     background-size: 50px 50px;
 }
 .bt{
@@ -544,6 +544,6 @@ img{
 .mess2{
     width: 50px;
     height: 50px;
-    background-image: url("https://tokyogateaux.vn/wp-ctt/uploads/2020/08/fb-logo.png");
+    background-image: url("../imgs/fb-logo.png");
     background-size: 50px 50px;
 }
