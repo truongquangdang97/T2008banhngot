@@ -27,5 +27,6 @@ function aside(){
         "                </div>\n" +
         "            </aside>"
 }
+
 var hd = document.getElementById("aside");
 hd.innerHTML = aside();
