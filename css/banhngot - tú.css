@@ -181,7 +181,7 @@ img{
     background-color: #c8395e;
 }
 .top-left-3{
-    padding: 30px 0;
+    padding-top: 8px;
     float: left;
 }
 .top-left-3 li{
@@ -201,8 +201,8 @@ img{
     color: #d4d4d4;
 }
 .top-right-3{
+    padding: 3px 0;
     float: right;
-    padding-top: 25px;
 }
 .top-right-3-1{
     width: 235px;
