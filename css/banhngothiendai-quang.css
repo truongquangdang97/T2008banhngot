@@ -202,7 +202,7 @@
 }
 
 
-.nav{
+.nav1{
     height: 70px;
     background-color: #c7254e;
     color: #ffffff;
@@ -220,6 +220,7 @@
 }
 .d2:hover{
     color: #e7e7e7;
+    text-decoration: none;
 }
 .e1{
     float: right;
