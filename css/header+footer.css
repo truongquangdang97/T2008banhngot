@@ -239,3 +239,55 @@ img{
 .nentrang{
     background-color: white;!important;
 }
+.mess{
+    position: fixed;
+    float: right;
+    right: 15px;
+    bottom: 135px;
+}
+.mess2{
+    width: 50px;
+    height: 50px;
+    background-image: url("../imgs/fb-logo.png");
+    background-size: 50px 50px;
+}
+.hotline{
+    background-color: #d11a59;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    padding: 0 20px;
+    color: white;
+    display: block;
+    position: fixed;
+    float: right;
+    bottom: 10px;
+    right: 10px;
+    height: 40px;
+}
+.hotline:focus{
+    outline: none;
+}
+.zalo{
+     position: fixed;
+     float: right;
+     right: 15px;
+     bottom: 70px;
+ }
+.zalo2{
+    width: 50px;
+    height: 50px;
+    background-image: url("../imgs/zalo-1.png");
+    background-size: 50px 50px;
+}
+.bt{
+     position: absolute;
+     width: 50px;
+     height: 50px;
+     background-color: transparent;
+     border: none;
+ }
+.bt:focus{
+    outline: none;
+}

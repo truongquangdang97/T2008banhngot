@@ -178,14 +178,20 @@ function footer(){
         "                Copyright © 2020 <strong>Tokyo Gateaux</strong>\n" +
         "            </div>\n" +
         "    </div>\n" +
-        "    <div class=\"abc size40\">\n" +
-        "        <div class=\"floatright\">\n" +
-        "            <a class=\"linkxanh\" href=\"http://m.me/tiembanhsinhnhattokyogateaux\"><i class=\"fab fa-facebook-messenger\"></i></a>\n" +
-        "        </div>\n" +
-        "        <br/>\n" +
-        "        <div class=\"floatright botron\">\n" +
-        "            <a class=\"linktrang\" href=\"tel:0902040990\">Tư vấn: 090.2040.990</a>\n" +
-        "        </div>\n" +
+        "    <div class=\"mess mess2\">\n" +
+        "        <a href=\"http://m.me/tiembanhsinhnhattokyogateaux\">\n" +
+        "            <button class=\"bt\"></button>\n" +
+        "        </a>\n" +
+        "    </div>\n" +
+        "    <div class=\"zalo zalo2\">\n" +
+        "        <a href=\"https://zalo.me/0902040990\">\n" +
+        "            <button class=\"bt\"></button>\n" +
+        "        </a>\n" +
+        "    </div>\n" +
+        "    <div>\n" +
+        "        <a href=\"tel:0902040990\">\n" +
+        "            <button class=\"hotline\">Tư vấn: 090.2040.990</button>\n" +
+        "        </a>\n" +
         "    </div>"
 }
 var hd = document.getElementById("footer");
