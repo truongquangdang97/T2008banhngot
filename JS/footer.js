@@ -1,37 +1,34 @@
 function footer(){
-    return" <div class=\"col-md-12 gach\"></div>\n" +
+    return"<div class=\"col-md-12 gach\"></div>\n" +
         "    <div class=\"container\">\n" +
         "            <div class=\"row\">\n" +
         "                <div class=\"col-md-3\">\n" +
         "                    <h4 class=\"tuade\">LATEST</h4>\n" +
-        "                    <div class=\"far fa-window-minimize\">\n" +
-        "                        <i class=\"far fa-window-minimize\"></i>\n" +
-        "                        <i class=\"far fa-window-minimize\"></i>\n" +
-        "                        <i class=\"far fa-window-minimize\"></i>\n" +
-        "                    </div>\n" +
+        "                    <div class=\"gachnho\"></div>\n" +
+        "\n" +
         "                    <ul class=\"ulnostyle paddingtop\">\n" +
         "                        <li><a class=\"link\" href=\"https://tokyogateaux.vn/san-pham/banh-sinh-nhat-vuong-hoa-kem-tuoi-hacisco-sz22x28/\">\n" +
         "                            <img class=\"imgfooter row col-md-4\" srcset=\"https://tokyogateaux.vn/wp-content/uploads/2020/10/20-100x100.jpg 100w, https://tokyogateaux.vn/wp-content/uploads/2020/10/20-400x400.jpg 400w, https://tokyogateaux.vn/wp-content/uploads/2020/10/20-280x280.jpg 280w, https://tokyogateaux.vn/wp-content/uploads/2020/10/20-768x768.jpg 768w, https://tokyogateaux.vn/wp-content/uploads/2020/10/20-500x500.jpg 500w, https://tokyogateaux.vn/wp-content/uploads/2020/10/20.jpg 800w\">\n" +
-        "                            <span class=\"col-md-8 rowphai\" > Bánh sinh nhật vuông hoa kem tươi Hacisco sz22x28</span>\n" +
+        "                            <span class=\"col-md-8 \" > Bánh sinh nhật vuông hoa kem tươi Hacisco sz22x28</span>\n" +
         "                            <span class=\"text-right row col-md-12\"><bdi><b>550.000₫<p class=\"gach\">\n" +
         "                            </p></b></bdi></span>\n" +
         "                            </a>\n" +
         "                        </li>\n" +
         "                        <li><a class=\"link\" href=\"https://tokyogateaux.vn/san-pham/banh-sinh-nhat-vuon-hong-tra-sz2535/\">\n" +
         "                            <img class=\"imgfooter row col-md-4\"srcset=\"https://tokyogateaux.vn/wp-content/uploads/2020/10/24-100x100.jpg 100w, https://tokyogateaux.vn/wp-content/uploads/2020/10/24-400x400.jpg 400w, https://tokyogateaux.vn/wp-content/uploads/2020/10/24-280x280.jpg 280w, https://tokyogateaux.vn/wp-content/uploads/2020/10/24-768x768.jpg 768w, https://tokyogateaux.vn/wp-content/uploads/2020/10/24-500x500.jpg 500w, https://tokyogateaux.vn/wp-content/uploads/2020/10/24.jpg 800w\">\n" +
-        "                            <span class=\"col-md-8 rowphai\" > Bánh sinh nhật vườn hồng trà sz25*35</span>\n" +
+        "                            <span class=\"col-md-8 \" > Bánh sinh nhật vườn hồng trà sz25*35</span>\n" +
         "                            <span class=\"text-right row col-md-12\"><bdi><b>750.000₫<p class=\"gach\"></p></b></bdi></span>\n" +
         "                            </a>\n" +
         "                        </li>\n" +
         "                        <li>\n" +
         "                            <img class=\"row imgfooter col-md-4\" srcset=\"https://tokyogateaux.vn/wp-content/uploads/2020/10/3-100x100.jpg 100w, https://tokyogateaux.vn/wp-content/uploads/2020/10/3-400x400.jpg 400w, https://tokyogateaux.vn/wp-content/uploads/2020/10/3-280x280.jpg 280w, https://tokyogateaux.vn/wp-content/uploads/2020/10/3-768x768.jpg 768w, https://tokyogateaux.vn/wp-content/uploads/2020/10/3-500x500.jpg 500w, https://tokyogateaux.vn/wp-content/uploads/2020/10/3.jpg 800w\">\n" +
-        "                            <span class=\"col-md-8 rowphai\" >Bánh sinh nhật tạo hình xe tăng sz14x22</span>\n" +
+        "                            <span class=\"col-md-8 \" >Bánh sinh nhật tạo hình xe tăng sz14x22</span>\n" +
         "                            <span class=\"text-right row col-md-12\"><bdi><b>550.000₫<p class=\"gach\"></p></b></bdi></span>\n" +
         "                            </a>\n" +
         "                        </li>\n" +
         "                        <li><a class=\"link\" href=\"https://tokyogateaux.vn/san-pham/banh-sinh-nhat-tao-hinh-xe-tang-sz14x22/\">\n" +
         "                            <img class=\"col-md-4 row imgfooter\" srcset=\"https://tokyogateaux.vn/wp-content/uploads/2020/10/25-100x100.jpg 100w, https://tokyogateaux.vn/wp-content/uploads/2020/10/25-400x400.jpg 400w, https://tokyogateaux.vn/wp-content/uploads/2020/10/25-280x280.jpg 280w, https://tokyogateaux.vn/wp-content/uploads/2020/10/25-768x768.jpg 768w, https://tokyogateaux.vn/wp-content/uploads/2020/10/25-500x500.jpg 500w, https://tokyogateaux.vn/wp-content/uploads/2020/10/25.jpg 800w\">\n" +
-        "                            <span class=\"col-md-8 rowphai\" > Bánh sinh nhật Cars sz16</span>\n" +
+        "                            <span class=\"col-md-8\" > Bánh sinh nhật Cars sz16</span>\n" +
         "                            <span class=\"text-right row col-md-12\"><bdi><b>250.000₫<p class=\"gachc\">\n" +
         "                            </p></b></bdi></span>\n" +
         "                            </a>\n" +
@@ -41,11 +38,8 @@ function footer(){
         "                </div>\n" +
         "                <div class=\"col-md-3\">\n" +
         "                    <h4 class=\"tuade\">BEST SELLING</h4>\n" +
-        "                    <div class=\"far fa-window-minimize\">\n" +
-        "                        <i class=\"far fa-window-minimize\"></i>\n" +
-        "                        <i class=\"far fa-window-minimize\"></i>\n" +
-        "                        <i class=\"far fa-window-minimize\"></i>\n" +
-        "                    </div>\n" +
+        "                    <div class=\"gachnho\"></div>\n" +
+        "\n" +
         "                    <ul class=\"ulnostyle paddingtop\">\n" +
         "                        <li><a class=\"link\" href=\"https://tokyogateaux.vn/san-pham/banh-sinh-nhat-hien-dai-mini-hong-sz16/\">\n" +
         "                            <img class=\"col-md-4 row imgfooter\" src=\"https://tokyogateaux.vn/wp-content/uploads/2020/08/Bánh-sinh-nhật-hiện-dại-mini-2-1-100x100.jpg\">\n" +
@@ -76,11 +70,8 @@ function footer(){
         "                </div>\n" +
         "                <div class=\"col-md-3\">\n" +
         "                    <h4 class=\"tuade\">TOP RATED</h4>\n" +
-        "                    <div class=\"far fa-window-minimize\">\n" +
-        "                        <i class=\"far fa-window-minimize\"></i>\n" +
-        "                        <i class=\"far fa-window-minimize\"></i>\n" +
-        "                        <i class=\"far fa-window-minimize\"></i>\n" +
-        "                    </div>\n" +
+        "                    <div class=\"gachnho\"></div>\n" +
+        "\n" +
         "                    <ul class=\"ulnostyle paddingtop\">\n" +
         "                        <li><a class=\"link\" href=\"https://tokyogateaux.vn/san-pham/banh-sinh-nhat-2-tang-16-22-2/\">\n" +
         "                            <img class=\"col-md-4 row imgfooter\" srcset=\"https://tokyogateaux.vn/wp-content/uploads/2020/08/24.6.19-100x100.jpg 100w, https://tokyogateaux.vn/wp-content/uploads/2020/08/24.6.19-500x500.jpg 500w, https://tokyogateaux.vn/wp-content/uploads/2020/08/24.6.19-768x768.jpg 768w, https://tokyogateaux.vn/wp-content/uploads/2020/08/24.6.19-400x400.jpg 400w, https://tokyogateaux.vn/wp-content/uploads/2020/08/24.6.19-280x280.jpg 280w, https://tokyogateaux.vn/wp-content/uploads/2020/08/24.6.19.jpg 800w\">\n" +
@@ -110,10 +101,7 @@ function footer(){
         "                <div class=\"row\">\n" +
         "                    <div class=\"col-md-3 mau2\">\n" +
         "                        <h4 class=\"tuade2\">TOKYO GATEAUX</h4>\n" +
-        "                        <i class=\"far fa-window-minimize\"></i>\n" +
-        "                        <i class=\"far fa-window-minimize\"></i>\n" +
-        "                        <i class=\"far fa-window-minimize\"></i>\n" +
-        "                        <i class=\"far fa-window-minimize\"></i>\n" +
+        "                        <div class=\"gachnho2\"></div>\n" +
         "                        <p class=\"paddingtop2\"></p>\n" +
         "                        <p style=\"text-align: left;\"><span style=\"font-size: 14.4px;\">\n" +
         "                            Tên đơn vị: Công ty TNHH Thương Mại &amp; Sản Xuất Dora. </span></p>\n" +
@@ -127,19 +115,13 @@ function footer(){
         "                    </div>\n" +
         "                    <div class=\"col-md-3 mau2\">\n" +
         "                        <h4 class=\"tuade2\">ĐỊA ĐIỂM</h4>\n" +
-        "                        <i class=\"far fa-window-minimize\"></i>\n" +
-        "                        <i class=\"far fa-window-minimize\"></i>\n" +
-        "                        <i class=\"far fa-window-minimize\"></i>\n" +
-        "                        <i class=\"far fa-window-minimize\"></i>\n" +
+        "                        <div class=\"gachnho2\"></div>\n" +
         "                        <p class=\"paddingtop2\"></p>\n" +
         "                        <p><strong>Tokyo Gâteaux An Dương.</strong> ĐC: 70B An Dương, Yên phụ, Tây Hồ, Hà Nội.</p><p> <strong>ĐT:</strong> 0902040990</p>\n" +
         "                    </div>\n" +
         "                    <div class=\"col-md-3 mau2\">\n" +
         "                        <h4 class=\"tuade2\">CÁC BÀI VIẾT</h4>\n" +
-        "                        <i class=\"far fa-window-minimize\"></i>\n" +
-        "                        <i class=\"far fa-window-minimize\"></i>\n" +
-        "                        <i class=\"far fa-window-minimize\"></i>\n" +
-        "                        <i class=\"far fa-window-minimize\"></i>\n" +
+        "                        <div class=\"gachnho2\"></div>\n" +
         "                        <p class=\"paddingtop2\"></p>\n" +
         "                        <ul class=\"ulnostyle\">\n" +
         "                            <li>\n" +
@@ -186,7 +168,7 @@ function footer(){
         "\n" +
         "                    </div>\n" +
         "                    <div class=\"col-md-3\">\n" +
-        "                        <a href=\"https://tokyogateaux.vn/\"><img width=\"512\" alt=\"\" loading=\"lazy\" data-srcset=\"https://tokyogateaux.vn/wp-content/uploads/2020/08/1.jpg 512w, https://tokyogateaux.vn/wp-content/uploads/2020/08/1-500x500.jpg 500w, https://tokyogateaux.vn/wp-content/uploads/2020/08/1-100x100.jpg 100w, https://tokyogateaux.vn/wp-content/uploads/2020/08/1-510x510.jpg 510w, https://tokyogateaux.vn/wp-content/uploads/2020/08/1-400x400.jpg 400w, https://tokyogateaux.vn/wp-content/uploads/2020/08/1-280x280.jpg 280w\" data-src=\"https://tokyogateaux.vn/wp-content/uploads/2020/08/1.jpg\" data-sizes=\"(max-width: 512px) 100vw, 512px\" class=\"attachment-full size-full ls-is-cached lazyloaded\" src=\"https://tokyogateaux.vn/wp-content/uploads/2020/08/1.jpg\" sizes=\"(max-width: 512px) 100vw, 512px\" srcset=\"https://tokyogateaux.vn/wp-content/uploads/2020/08/1.jpg 512w, https://tokyogateaux.vn/wp-content/uploads/2020/08/1-500x500.jpg 500w, https://tokyogateaux.vn/wp-content/uploads/2020/08/1-100x100.jpg 100w, https://tokyogateaux.vn/wp-content/uploads/2020/08/1-510x510.jpg 510w, https://tokyogateaux.vn/wp-content/uploads/2020/08/1-400x400.jpg 400w, https://tokyogateaux.vn/wp-content/uploads/2020/08/1-280x280.jpg 280w\"><noscript><img width=\"512\" height=\"512\" src=\"https://tokyogateaux.vn/wp-content/uploads/2020/08/1.jpg\" class=\"attachment-full size-full\" alt=\"\" loading=\"lazy\" srcset=\"https://tokyogateaux.vn/wp-content/uploads/2020/08/1.jpg 512w, https://tokyogateaux.vn/wp-content/uploads/2020/08/1-500x500.jpg 500w, https://tokyogateaux.vn/wp-content/uploads/2020/08/1-100x100.jpg 100w, https://tokyogateaux.vn/wp-content/uploads/2020/08/1-510x510.jpg 510w, https://tokyogateaux.vn/wp-content/uploads/2020/08/1-400x400.jpg 400w, https://tokyogateaux.vn/wp-content/uploads/2020/08/1-280x280.jpg 280w\" sizes=\"(max-width: 512px) 100vw, 512px\" /></noscript></a>\n" +
+        "                        <a href=\"https://tokyogateaux.vn/\"><img width=\"512\" data-srcset=\"https://tokyogateaux.vn/wp-content/uploads/2020/08/1.jpg 512w, https://tokyogateaux.vn/wp-content/uploads/2020/08/1-500x500.jpg 500w, https://tokyogateaux.vn/wp-content/uploads/2020/08/1-100x100.jpg 100w, https://tokyogateaux.vn/wp-content/uploads/2020/08/1-510x510.jpg 510w, https://tokyogateaux.vn/wp-content/uploads/2020/08/1-400x400.jpg 400w, https://tokyogateaux.vn/wp-content/uploads/2020/08/1-280x280.jpg 280w\" data-src=\"https://tokyogateaux.vn/wp-content/uploads/2020/08/1.jpg\" data-sizes=\"(max-width: 512px) 100vw, 512px\" class=\"attachment-full size-full ls-is-cached lazyloaded\" src=\"https://tokyogateaux.vn/wp-content/uploads/2020/08/1.jpg\" sizes=\"(max-width: 512px) 100vw, 512px\" srcset=\"https://tokyogateaux.vn/wp-content/uploads/2020/08/1.jpg 512w, https://tokyogateaux.vn/wp-content/uploads/2020/08/1-500x500.jpg 500w, https://tokyogateaux.vn/wp-content/uploads/2020/08/1-100x100.jpg 100w, https://tokyogateaux.vn/wp-content/uploads/2020/08/1-510x510.jpg 510w, https://tokyogateaux.vn/wp-content/uploads/2020/08/1-400x400.jpg 400w, https://tokyogateaux.vn/wp-content/uploads/2020/08/1-280x280.jpg 280w\"><noscript><img width=\"512\" height=\"512\" src=\"https://tokyogateaux.vn/wp-content/uploads/2020/08/1.jpg\" class=\"attachment-full size-full\" alt=\"\" loading=\"lazy\" srcset=\"https://tokyogateaux.vn/wp-content/uploads/2020/08/1.jpg 512w, https://tokyogateaux.vn/wp-content/uploads/2020/08/1-500x500.jpg 500w, https://tokyogateaux.vn/wp-content/uploads/2020/08/1-100x100.jpg 100w, https://tokyogateaux.vn/wp-content/uploads/2020/08/1-510x510.jpg 510w, https://tokyogateaux.vn/wp-content/uploads/2020/08/1-400x400.jpg 400w, https://tokyogateaux.vn/wp-content/uploads/2020/08/1-280x280.jpg 280w\" sizes=\"(max-width: 512px) 100vw, 512px\" /></noscript></a>\n" +
         "                    </div>\n" +
         "                </div><p class=\"paddingtop2\"></p>\n" +
         "            </div>\n" +
