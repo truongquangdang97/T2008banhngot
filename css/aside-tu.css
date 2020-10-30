@@ -49,10 +49,13 @@
     margin-top: 5px;
 }
 .ctt-4{
+
     padding-top: 20px;
 }
 .ctt-4 ul{
     padding-top: 15px;
+    margin: 0;
+    padding: 0;
 }
 .ctt-4 li{
     list-style: none;

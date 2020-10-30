@@ -1,7 +1,7 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
-.header{
+.nendo{
     background-color: #d11a59;
     color: white;
 }
@@ -119,6 +119,10 @@ body{
 .benduoi1{
     background-color: #777777;
 }
+.nentrang ul{
+    margin: 0;
+    padding: 0;
+}
 .nenfb{
     background-color: unset;
 }
@@ -176,4 +180,62 @@ img{
     height: 3px;
     background-color: rgba(255,255,255,0.3);
     max-width: 30px;
+}
+.top-left-2{
+    float: left;
+}
+.top-left-2 li{
+    float: left;
+    list-style: none;
+    margin-right: 15px;
+}
+.top-left-2-0{
+    padding-right: 20px;
+}
+.top-left-2-1{
+    padding-top: 20px;
+}
+.top-left-2-2{
+    font-size: 13px;
+    font-weight: bold;
+    color: rgba(102,102,102,0.85);
+    transition: .3s;
+}
+.top-left-2-2:hover{
+    color: rgba(17,17,17,0.85);
+    text-decoration: none;
+}
+.top-left-2-1{
+    padding-top: 20px;
+}
+.top-right-2{
+    float: right;
+}
+.top-right-2 li{
+    float: right;
+    list-style: none;
+    margin: 5px;
+}
+.top-right-2-1{
+    color: #d11a59;
+    font-size: 30px;
+}
+.top-right-2-1:hover{
+    color: mediumvioletred;
+}
+.top-right-2-2{
+    height: 40px;
+    border-left: 1px solid rgba(0,0,0,0.1);
+    padding: 10px;
+}
+.top-right-2-3{
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(102,102,102,0.85);
+}
+.top-right-2-3:hover{
+    color: rgba(17,17,17,0.85);
+    text-decoration: none;}
+.nentrang{
+    background-color: white;!important;
 }
