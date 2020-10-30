@@ -3,138 +3,8 @@
     padding: 0;
     box-sizing: border-box;
 }
-.header1{
-    background-color: #c7254e;
-    height: 50px;
-}
-
-.a{
-    color: white;
-}
-.a li{
-    list-style: none;
-    float: left;
-    margin-left: 10px;
-    margin-bottom: 5px;
-}
-
-.s1{
-    float: right;
-    padding: 4px 0;
-
-}
-.s1 li{
-    margin-right: 10px;
-    float: left;
-    list-style: none;
-    font-size: 15px;
-}
-.s2{
-    color: white;
-    background-color:#2e6da4 ;
-    border-radius: 100%;
-    padding: 10px;
-}
-.s2:hover{
-    color: white;
-    background-color: #3a589d;
-}
-.s3{
-    color: white;
-    background-color:black ;
-    border-radius: 100%;
-    padding: 10px;
-}
-.s3:hover{
-    color: white;
-}
-.s4{
-    color: white;
-    background-color:#67b168 ;
-    border-radius: 100%;
-    padding: 10px;
-}
-.s4:hover{
-    color: white;
-    background-color: #449d44;
-}
-.s5{
-    color: white;
-    border-radius: 100%;
-    padding: 10px;
-}
-.s5{
-    color: white;
-    background-color: #9f171e;
-}
-.v{
-    float: left;
-}
-.v li{
-    float: left;
-    margin-left: 20px;
-    list-style: none;
-}
-.v1{
-    color: #999999;
-    font-size: 20px;
-}
-.v3{
-    color: black;
-    font-size: 20px;
-}
-.v3:hover{
-    text-decoration: none;
-    color: #3c3c3c;
-}
-.v1:hover{
-    color: black;
-    text-decoration: none;
-}
-.c{
-    float: right;
-}
-
-.c li{
-    float: left;
-    margin-right:20px ;
-    list-style: none;
-    font-size: 20px;
-}
-.c1{
-    padding-left: 15px;
-    color: #999999;
-    border-left: 1px solid #999999;
-}
-.c2{
-    color: #999999;
-}
-.c1:hover{
-    color: black;
-}
-.c2:hover{
-    color: #9f171e;
-}
-.c:hover.c1{
-    color: black;
-}
-.c:hover.c2{
-    color: #9f171e;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-.container{
-    width: 1200px;
+.header{
+    background-color: #d21959;
 }
 .A1{
     float: left;
@@ -200,37 +70,47 @@
     list-style: none;
     margin-left: 20px;
 }
+.C{
+    background-color: #3c763d;
+    margin-top: 20px;
+}
+.c2{
+    float: right;
+    background-color: white;
+    font-size: 20px;
+}
 
+.c1{
+    background-color: white;
+    float: left;
+    width: 30%;
+    color: #999999;
+    font-size: 20px;
+}
 
 .nav{
-    height: 70px;
+    height: 100px;
     background-color: #c7254e;
     color: #ffffff;
 }
-.d li{
-    float: left;
-    margin-left: 10px;
-}
 .d1{
-    font-size: 18px;
-    list-style: none;
-}
-.d2{
     color: white;
 }
-.d2:hover{
-    color: #e7e7e7;
-}
-.e1{
-    float: right;
-    padding: 10px 10px;
+.d1:hover{
     color: white;
-    background-color: #ce8483;
-    border: 1px solid #e7e7e7;
+}
+.D{
+    margin-top: 35px;
+}
+.E{
     border-radius: 99px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-align: center;
+    margin-top: 25px;
+    color: white;
+    background-color: #ea88a3;
 }
-
-
 .P{
     font-size: 20px;
     margin-top: 20px;
@@ -255,24 +135,6 @@
     border: 1px solid #000000;
 
 }
-.k9{
-    font-size: 16px;
-    padding: 10px 15px;
-}
-.k8{
-    padding: 10px 15px;
-    background-color: #c7254e;
-    color: white;
-    font-size: 16px;
-}
-.k8:hover{
-    background-color: #9f171e;
-}
-
-
-
-
-
 .I{
     margin-top: 80px;
     font-size: 20px;
@@ -308,23 +170,30 @@
     max-width: 100%;
     height: auto;
 }
-.T9 {
+.T9{
+
     position: absolute;
-    top: 50px;
-    right: 30px;
-    font-size: 30px;
-    z-index: -1;
-    color: #ffffff;
-    border-radius:100%;
-    border: 1px solid #e5e5e5;
-    background-color: #999999;
+    font-size: 20px;
+    top: 40px;
+    right: 25px;
+    z-index: 1;
 }
-.T9:hover{
-    background-color: #c7254e;
-    color: #ffffff;
+.T9 i{
+    border: 2px solid silver;
+    color: silver;
+    padding-top: 7px;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    border-radius: 100%;
+    transition: .3s;
 }
-.TT:hover .T9{
-    z-index: 2;
+.T9 i:hover{
+    color: white;
+    background-color: #9f171e;
+    border: 2px solid #9f171e;
+    z-index: 9;
 }
 
 .T2{
@@ -478,4 +347,49 @@
 .f1:hover{
     color: #e5e5e5;
     text-decoration: none;
+}
+.l img{
+    max-width: 100%;
+}
+
+.l1{
+    color: red;
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    z-index: -1;
+    border: 2px solid silver;
+    border-radius: 100%;
+    font-size: 30px;
+}
+.l1:hover{
+    color:#1b6d85;
+    background-color:#2aabd2;
+}
+.thu:hover .l1{
+    z-index: 2;
+}
+
+
+
+
+.l2{
+    color: black;
+}
+C{
+    background-color: #3c763d;
+    margin-top: 20px;
+}
+c2{
+    float: right;
+    background-color: white;
+    font-size: 20px;
+}
+
+c1{
+    background-color: white;
+    float: left;
+    width: 30%;
+    color: #999999;
+    font-size: 20px;
 }
