@@ -4,13 +4,6 @@
 .icons{
     font-size: 20px;
 }
-li{
-    float: left;
-    list-style: none;
-    margin-right: 15px;
-    font-size: 20px;
-    color: #999999;
-}
 .shop{
     float: right;
     list-style: none;
