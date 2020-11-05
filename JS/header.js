@@ -41,3 +41,26 @@ function header(){
 }
 var hd = document.getElementById("header");
 hd.innerHTML = header();
+
+document.addEventListener("DOMContentLoaded",function() {
+    var menu = document.querySelectorAll('.nentrang');
+    var menu = menu[0];
+    //Truy xuất div menu
+    var trangthai="duoi300";
+    window.addEventListener("scroll",function(){
+        var x = pageYOffset;
+        if(x > 200){
+            if(trangthai == "duoi300")
+            {
+                trangthai="tren300";
+                menu.classList.add('cuonttrang');
+            }
+        }
+        else{
+            if(trangthai=="tren300"){
+                menu.classList.remove('cuonttrang');
+                trangthai="duoi300";}
+        }
+
+    })
+})
