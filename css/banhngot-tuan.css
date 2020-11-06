@@ -1,13 +1,20 @@
 *{
-
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
-.shop{
-    float: right;
-    list-style: none;
-    font-size: 20px;
+body{
+    font-size: 14px;
+    line-height: 1.25;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
 }
-.shop1{
-    float: right;
-    list-style: none;
-
+.theboss{
+    text-align: center;
+    text-decoration: none;
+    width: 100%;
+}
+img{
+  max-width: 100%;
+    height: auto;
 }
