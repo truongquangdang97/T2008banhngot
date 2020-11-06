@@ -13,7 +13,6 @@ img{
 .section{
     float: left;
     width: 100%;
-    border-bottom: 1px solid rgba(0,0,0,0.05);
 }
 .container{
     width: 1350px;
@@ -345,6 +344,7 @@ img{
 }
 .article-2{
     padding: 10px 0;
+    height: 68px;
 }
 .article-2-1{
     font-size: 12px;
@@ -357,16 +357,19 @@ img{
     color: #222;
     text-decoration: none;
 }
-.article-2-3{
-
+.article-3{
+    height: 30px;
+}
+.article-3-1{
     font-weight: bold;
     color: black;
 }
-.article-3{
+.article-4{
+    height: 70px;
     padding-left: 48px;
     padding-bottom: 35px;
 }
-.article-3-1{
+.article-4-1{
     width: 120px;
     height: 30px;
     font-size: 12px;
@@ -377,7 +380,7 @@ img{
     transition: .3s;
     cursor: pointer;
 }
-.article-3-1:hover{
+.article-4-1:hover{
     background-color: #a71245;
 }
 .chap{
