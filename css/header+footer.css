@@ -119,9 +119,12 @@ body{
 .benduoi1{
     background-color: #777777;
 }
+
 .nentrang ul{
     margin: 0;
     padding: 0;
+    width: 100%;
+    display: flex;
 }
 .nenfb{
     background-color: unset;
@@ -238,6 +241,7 @@ img{
     text-decoration: none;}
 .nentrang{
     background-color: white;!important;
+
 }
 .mess{
     position: fixed;
@@ -290,4 +294,14 @@ img{
  }
 .bt:focus{
     outline: none;
+}
+.cuonttrang{
+    padding: 5px 0;
+    width: 100%;
+
+    position: fixed;
+    top:0;
+    margin: auto;
+    z-index: 1000;
+    transition: 0.5s;
 }
