@@ -221,7 +221,7 @@ img{
 }
 .ctt{
     float: left;
-    width: 25%;
+    width: 23%;
     padding: 20px 15px 0 0;
 }
 .ctt-body{
@@ -230,7 +230,7 @@ img{
 }
 .article{
     float: left;
-    width: 75%;
+    width: 74%;
     padding: 20px 0 0 15px;
 }
 .ctt-1{
@@ -267,6 +267,9 @@ img{
 .ctt-3-2:hover{
     background-color: #a71245;
 }
+.ctt-3-2:focus{
+    outline: none;
+}
 .ctt-3-3{
     color: white;
     font-size: 18px;
@@ -283,7 +286,7 @@ img{
     padding: 6px 0;
 }
 .ctt-4-1{
-    width: 300px;
+    width: 220px;
     border-bottom: 1px solid #d4d4d4;
 }
 .ctt-4-2{
@@ -309,10 +312,9 @@ img{
 }
 .article{
     padding-bottom: 60px;
-    text-align: center;
     color: #777;
 }
-.article h2{
+.article .text-1{
     color: #555;
     font-size: 26px;
 }

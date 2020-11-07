@@ -47,6 +47,9 @@
 .ctt-3-2:hover{
     background-color: #a71245;
 }
+.ctt-3-2:focus{
+    outline: none;
+}
 .ctt-3-3{
     color: white;
     font-size: 18px;
