@@ -163,7 +163,7 @@ body{
     z-index: 10;
     font-size: 40px;
     top: 85%;
-    right: 0%;
+    right: 0;
 }
 .size40{
     font-size: 40px;
@@ -204,7 +204,7 @@ img{
     padding-top: 20px;
 }
 .top-left-2-2{
-    font-size: 13px;
+    font-size: 15px;
     font-weight: bold;
     color: rgba(102,102,102,0.85);
     transition: .3s;
@@ -221,7 +221,7 @@ img{
     text-transform: uppercase;
 }
 .top-left-2 ul li ul{
-    width: 225px;
+    width: 260px;
     background-color: white;
     position: absolute;
     display: none;
@@ -229,6 +229,7 @@ img{
     padding-left: 20px;
     border-radius: 10px;
     border: 2px solid black;
+    z-index: 1000;
 }.top-left-2 ul li:hover ul{
     display: block;
  }
@@ -326,4 +327,16 @@ img{
     margin: auto;
     z-index: 1000;
     transition: 0.5s;
+}
+.ctt-4-1{
+    border-bottom: 2px solid #d4d4d4;
+
+}
+.ctt-4-2{
+    font-size: 15px;
+    color: #798798;
+}
+.ctt-4-2:hover{
+    color: #222;
+    text-decoration: none;
 }
