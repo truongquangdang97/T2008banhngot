@@ -184,11 +184,10 @@ img{
     background-color: rgba(255,255,255,0.3);
     max-width: 30px;
 }
-.top-left-2{
+.top-left-2 {
     float: left;
 }
 .top-left-2 li{
-    float: left;
     list-style: none;
     margin-right: 15px;
 }
@@ -205,12 +204,30 @@ img{
     transition: .3s;
 }
 .top-left-2-2:hover{
+    position: relative;
     color: rgba(17,17,17,0.85);
     text-decoration: none;
 }
 .top-left-2-1{
     padding-top: 20px;
 }
+.top-left-2 ul{
+    text-transform: uppercase;
+}
+.top-left-2 ul li ul{
+    width: 225px;
+    background-color: white;
+    position: absolute;
+    left:35% ;
+    display: none;
+    padding: 10px 0;
+    padding-left: 20px;
+    border-radius: 10px;
+    border: 2px solid black;
+}.top-left-2 ul li:hover ul{
+    display: block;
+ }
+
 .top-right-2{
     float: right;
 }
