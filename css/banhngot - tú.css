@@ -187,7 +187,8 @@ img{
     float: left;
     font-size: 15px;
     list-style: none;
-    margin: 5px;
+    margin-top: 5px;
+    margin-right: 5px;
 }
 .top-left-3-1{
     color: white;
@@ -259,9 +260,7 @@ img{
     width: 40px;
     height: 38.800px;
     border: none;
-    position: relative;
-    top: 3px;
-    right: 5px;
+    position: absolute;
     background: #d11a59;
     transition: .3s;
 }

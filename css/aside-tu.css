@@ -40,9 +40,7 @@
     width: 40px;
     height: 38.800px;
     border: none;
-    position: relative;
-    top: 3px;
-    right: 5px;
+    position: absolute;
     background: #d11a59;
     transition: .3s;
 }
