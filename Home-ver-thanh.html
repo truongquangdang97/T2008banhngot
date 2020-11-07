@@ -88,10 +88,10 @@
             <p class="paddingtop2"></p>
             <ul class="ulnostyle">
                 <li>Bánh sinh nhật
-                    <button class="nutan" id="toggle">
+                    <button onclick="myFunction()" class="nutan" id="toggle">
                         <i class="fas fa-chevron-down"></i>
                     </button>
-                <ul class="ulnostyle2">
+                <ul id="anhien" class="ulnostyle2">
                     <li>Bánh sinh nhật bé trai</li>
                     <li>Bánh sinh nhật bé gái</li>
                     <li>Bánh sinh nhật của gay</li>
@@ -475,7 +475,21 @@
 
         })
     })
+    function myFunction() {
+        var x = document.getElementById('anhien');
+        var y = document.getElementById('toggle');
+        var iconup = "<i class=\"fas fa-chevron-up\"></i>";
+        var icondown= "<i class=\"fas fa-chevron-down\"></i>";
+        if (x.style.display === 'block') {
+            x.style.display = 'none';
+            y.innerHTML=icondown;
+        } else {
+            x.style.display = 'block';
+            y.innerHTML=iconup;
 
+
+        }
+    }
 
 </script>
 </body>

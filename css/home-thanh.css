@@ -302,6 +302,7 @@ img{
     padding-right: 15px;
 }
 .ulnostyle2{
+    display: none;
     list-style: none;
 }
 .khubanh{
@@ -311,5 +312,8 @@ img{
 .nutan{
 background-color: unset;
     border: none;
-
+    float: right;
+}
+.nutan:focus{
+    outline: none;
 }
