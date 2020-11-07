@@ -18,6 +18,21 @@ function aside(){
         "                            <li class=\"ctt-4-1\"><a class=\"ctt-4-2\" href=\"https://tokyogateaux.vn/banh-sinh-nhat/banh-sinh-nhat/banh-3-tang/\">Bánh sinh nhật hiện đại</a></li>\n" +
         "                            <li class=\"ctt-4-1\"><a class=\"ctt-4-2\" href=\"https://tokyogateaux.vn/banh-sinh-nhat/banh-sinh-nhat/banh-3-tang/\">Bánh sinh nhật bé trai</a></li>\n" +
         "                            <li class=\"ctt-4-1\"><a class=\"ctt-4-2\" href=\"https://tokyogateaux.vn/banh-sinh-nhat/banh-sinh-nhat/banh-3-tang/\">Bánh sinh nhật bé gái</a></li>\n" +
+        "                            <li class=\"ctt-4-1\"><a class=\"ctt-4-2\" href=\"https://tokyogateaux.vn/banh-sinh-nhat/banh-sinh-nhat/banh-3-tang/\">Bánh sinh nhật 2 tầng</a></li>\n" +
+        "                            <li class=\"ctt-4-1\"><a class=\"ctt-4-2\" href=\"https://tokyogateaux.vn/banh-sinh-nhat/banh-sinh-nhat/banh-3-tang/\">Bánh sinh nhật đồ chơi</a></li>\n" +
+        "                            <li class=\"ctt-4-1\"><a class=\"ctt-4-2\" href=\"https://tokyogateaux.vn/banh-sinh-nhat/banh-sinh-nhat/banh-3-tang/\">Bánh sinh nhật người lớn</a></li>\n" +
+        "                            <li class=\"ctt-4-1\"><a class=\"ctt-4-2\" href=\"https://tokyogateaux.vn/banh-sinh-nhat/banh-sinh-nhat/banh-3-tang/\">Bánh sinh nhật trẻ em</a></li>\n" +
+        "                            <li class=\"ctt-4-1\"><a class=\"ctt-4-2\" href=\"https://tokyogateaux.vn/banh-sinh-nhat/banh-sinh-nhat/banh-3-tang/\">Bánh tặng người yêu</a></li>\n" +
+        "                            <li class=\"ctt-4-1\"><a class=\"ctt-4-2\" href=\"https://tokyogateaux.vn/banh-sinh-nhat/banh-sinh-nhat/banh-3-tang/\">Bánh sinh nhật doanh nghiệp</a></li>\n" +
+        "                            <li class=\"ctt-4-1\"><a class=\"ctt-4-2\" href=\"https://tokyogateaux.vn/banh-sinh-nhat/banh-sinh-nhat/banh-3-tang/\">Bánh sinh nhật fondant</a></li>\n" +
+        "                            <li class=\"ctt-4-1\"><a class=\"ctt-4-2\" href=\"https://tokyogateaux.vn/banh-sinh-nhat/banh-sinh-nhat/banh-3-tang/\">Bánh sinh nhật in ảnh</a></li>\n" +
+        "                            <li class=\"ctt-4-1\"><a class=\"ctt-4-2\" href=\"https://tokyogateaux.vn/banh-sinh-nhat/banh-sinh-nhat/banh-3-tang/\">Bánh sinh nhật hoa socola</a></li>\n" +
+        "                            <li class=\"ctt-4-1\"><a class=\"ctt-4-2\" href=\"https://tokyogateaux.vn/banh-sinh-nhat/banh-sinh-nhat/banh-3-tang/\">Bánh sinh nhật oto</a></li>\n" +
+        "                            <li class=\"ctt-4-1\"><a class=\"ctt-4-2\" href=\"https://tokyogateaux.vn/banh-sinh-nhat/banh-sinh-nhat/banh-3-tang/\">Bánh sinh nhật siêu nhân</a></li>\n" +
+        "                            <li class=\"ctt-4-1\"><a class=\"ctt-4-2\" href=\"https://tokyogateaux.vn/banh-sinh-nhat/banh-sinh-nhat/banh-3-tang/\">Bánh tặng bà và mẹ</a></li>\n" +
+        "                            <li class=\"ctt-4-1\"><a class=\"ctt-4-2\" href=\"https://tokyogateaux.vn/banh-sinh-nhat/banh-sinh-nhat/banh-3-tang/\">Bánh sinh nhật kem sữa chua</a></li>\n" +
+        "                            <li class=\"ctt-4-1\"><a class=\"ctt-4-2\" href=\"https://tokyogateaux.vn/banh-sinh-nhat/banh-sinh-nhat/banh-3-tang/\">Bánh kỉ niệm ngày cưới</a></li>\n" +
+        "                            <li class=\"ctt-4-1\"><a class=\"ctt-4-2\" href=\"https://tokyogateaux.vn/banh-sinh-nhat/banh-sinh-nhat/banh-3-tang/\">Bánh sinh nhật trường lớp</a></li>\n" +
         "                        </ul>\n" +
         "                    </div>\n" +
         "                    <div class=\"ctt-5\">\n" +
