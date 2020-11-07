@@ -1,4 +1,6 @@
 body{
+    margin: 0;
+    padding: 0;
     font-family: 'Roboto', sans-serif;
 }
 section{
@@ -113,6 +115,21 @@ section{
 }
 .imgfooter{
     max-width: 100%;
+}
+.add-to-cart{
+    float: left;
+    width: 100%;
+    color: #ffffff;
+    background-color: #d11a59;
+    padding: 5px 10px;
+    font-size: 15px;
+    text-decoration: none;
+    transition: background-color 300ms;
+}
+.add-to-cart:hover{
+    color: #ffffff;
+    background-color: #d11a1a;
+    text-decoration: unset;
 }
 .textright{
     text-align: right;
@@ -264,4 +281,39 @@ img{
 }
 .boxcon:hover i{
     transform: scale(1.1);
+}
+.tenbanh{
+    height: 42px;
+    font-size: 18px;
+}
+.linkden{
+    color: #333333;
+}
+.linkden:hover{
+    color: #333333;
+    text-decoration: unset;
+}
+.chumo{
+    color: #a0a0a0;
+}
+.xem-them{
+     float: right;
+    padding-top: 10px;
+    padding-right: 15px;
+}
+.ulnostyle2{
+    display: none;
+    list-style: none;
+}
+.khubanh{
+    height: 50px;
+    text-transform: uppercase;
+}
+.nutan{
+background-color: unset;
+    border: none;
+    float: right;
+}
+.nutan:focus{
+    outline: none;
 }
