@@ -40,14 +40,15 @@
     width: 40px;
     height: 38.800px;
     border: none;
-    position: relative;
-    top: 3px;
-    right: 5px;
+    position: absolute;
     background: #d11a59;
     transition: .3s;
 }
 .ctt-3-2:hover{
     background-color: #a71245;
+}
+.ctt-3-2:focus{
+    outline: none;
 }
 .ctt-3-3{
     color: white;
@@ -68,12 +69,13 @@
     padding: 6px 0;
 }
 .ctt-4-1{
-    width: 300px;
-    border-bottom: 1px solid #d4d4d4;
+    width: 220px;
+    border-bottom: 2px solid #d4d4d4;
+
 }
 .ctt-4-2{
     font-size: 15px;
-    color: #334882;
+    color: #798798;
 }
 .ctt-4-2:hover{
     color: #222;

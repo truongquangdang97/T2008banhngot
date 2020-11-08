@@ -24,7 +24,13 @@ function header(){
         "                    <li class=\"top-left-2-0\"><a href=\"https://tokyogateaux.vn/\"><img src=\"imgs/Untitled-7.jpg\" height=\"48\" width=\"225\"/></a></li>\n" +
         "                    <li class=\"top-left-2-1\"><a class=\"top-left-2-2\" href=\"#\"><i class=\"fas fa-search\"></i></a></li>\n" +
         "                    <li class=\"top-left-2-1\"><a class=\"top-left-2-2\" href=\"https://tokyogateaux.vn/\">TRANG CHỦ</a></li>\n" +
-        "                    <li class=\"top-left-2-1\"><a class=\"top-left-2-2\" href=\"\">BÁNH SINH NHẬT</a></li>\n" +
+        "                    <li class=\"top-left-2-1\"><a class=\"top-left-2-2\" href=\"\">BÁNH SINH NHẬT</a>\n" +
+        "                    <ul class=\"sub-menu\">\n" +
+        "                        <li><a href=\"#\" class=\"top-left-2-2\">Bánh sinh nhật hiện đại</a></li>\n" +
+        "                        <li><a href=\"#\" class=\"top-left-2-2\">Bánh sinh nhật bé gái</a></li>\n" +
+        "                        <li><a href=\"#\" class=\"top-left-2-2\">Bánh sinh nhật bé trai</a></li>\n" +
+        "                        <li><a href=\"#\" class=\"top-left-2-2\">Bánh sinh nhật người lớn</a></li>\n" +
+        "                    </ul></li>\n" +
         "                    <li class=\"top-left-2-1\"><a class=\"top-left-2-2\" href=\"\">BLOG</a></li>\n" +
         "                    <li class=\"top-left-2-1\"><a class=\"top-left-2-2\" href=\"\">GIỎ HÀNG</a></li>\n" +
         "                </ul>\n" +
@@ -44,7 +50,7 @@ hd.innerHTML = header();
 
 document.addEventListener("DOMContentLoaded",function() {
     var menu = document.querySelectorAll('.nentrang');
-    var menu = menu[0];
+    menu = menu[0];
     //Truy xuất div menu
     var trangthai="duoi300";
     window.addEventListener("scroll",function(){

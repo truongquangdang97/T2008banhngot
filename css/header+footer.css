@@ -60,6 +60,7 @@ body{
 }
 .mautrang{
     color: white;
+    margin-left: 5px;
 }
 .tron{
     border-radius: 100%;
@@ -119,7 +120,12 @@ body{
 .benduoi1{
     background-color: #777777;
 }
-
+.benduoi2{
+    background-color: #5b5b5b;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #acacac ;
+}
 .nentrang ul{
     margin: 0;
     padding: 0;
@@ -157,7 +163,7 @@ body{
     z-index: 10;
     font-size: 40px;
     top: 85%;
-    right: 0%;
+    right: 0;
 }
 .size40{
     font-size: 40px;
@@ -184,11 +190,10 @@ img{
     background-color: rgba(255,255,255,0.3);
     max-width: 30px;
 }
-.top-left-2{
+.top-left-2 {
     float: left;
 }
 .top-left-2 li{
-    float: left;
     list-style: none;
     margin-right: 15px;
 }
@@ -199,18 +204,36 @@ img{
     padding-top: 20px;
 }
 .top-left-2-2{
-    font-size: 13px;
+    font-size: 15px;
     font-weight: bold;
     color: rgba(102,102,102,0.85);
     transition: .3s;
 }
 .top-left-2-2:hover{
+    position: relative;
     color: rgba(17,17,17,0.85);
     text-decoration: none;
 }
 .top-left-2-1{
     padding-top: 20px;
 }
+.top-left-2 ul{
+    text-transform: uppercase;
+}
+.top-left-2 ul li ul{
+    width: 260px;
+    background-color: white;
+    position: absolute;
+    display: none;
+    padding: 10px 0;
+    padding-left: 20px;
+    border-radius: 10px;
+    border: 2px solid black;
+    z-index: 1000;
+}.top-left-2 ul li:hover ul{
+    display: block;
+ }
+
 .top-right-2{
     float: right;
 }
@@ -304,4 +327,16 @@ img{
     margin: auto;
     z-index: 1000;
     transition: 0.5s;
+}
+.ctt-4-1{
+    border-bottom: 2px solid #d4d4d4;
+
+}
+.ctt-4-2{
+    font-size: 15px;
+    color: #798798;
+}
+.ctt-4-2:hover{
+    color: #222;
+    text-decoration: none;
 }
