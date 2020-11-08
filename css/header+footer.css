@@ -227,8 +227,8 @@ img{
     display: none;
     padding: 10px 0;
     padding-left: 20px;
-    border-radius: 10px;
-    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px #000008;
     z-index: 1000;
 }.top-left-2 ul li:hover ul{
     display: block;
@@ -330,10 +330,12 @@ img{
 }
 .ctt-4-1{
     border-bottom: 2px solid #d4d4d4;
-
+}.ctt-4-1a{
+    width: 200px;
+    border-bottom: 2px solid #d4d4d4;
 }
 .ctt-4-2{
-    font-size: 15px;
+    font-size: 14px;
     color: #798798;
 }
 .ctt-4-2:hover{
