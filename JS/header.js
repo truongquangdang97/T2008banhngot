@@ -45,8 +45,8 @@ function header(){
         "                        <li class=\"ctt-4-1\"><a class=\"ctt-4-2\" href=\"https://tokyogateaux.vn/banh-sinh-nhat/banh-sinh-nhat/banh-3-tang/\">Bánh kỉ niệm ngày cưới</a></li>\n" +
         "                        <li class=\"ctt-4-1-last\"><a class=\"ctt-4-2\" href=\"https://tokyogateaux.vn/banh-sinh-nhat/banh-sinh-nhat/banh-3-tang/\">Bánh sinh nhật trường lớp</a></li>\n" +
         "                    </ul></li>\n" +
-        "                    <li class=\"top-left-2-1\"><a class=\"top-left-2-2\" href=\"\">BLOG</a></li>\n" +
-        "                    <li class=\"top-left-2-1\"><a class=\"top-left-2-2\" href=\"\">GIỎ HÀNG</a></li>\n" +
+        "                    <li class=\"top-left-2-1\"><a class=\"top-left-2-2s\" href=\"\">BLOG</a></li>\n" +
+        "                    <li class=\"top-left-2-1\"><a class=\"top-left-2-2s\" href=\"\">GIỎ HÀNG</a></li>\n" +
         "                </ul>\n" +
         "            </div>\n" +
         "            <div class=\"top-right-2\">\n" +
