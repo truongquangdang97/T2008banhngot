@@ -22,9 +22,9 @@ function header(){
         "            <div class=\"top-left-2\">\n" +
         "                <ul>\n" +
         "                    <li class=\"top-left-2-0\"><a href=\"https://tokyogateaux.vn/\"><img src=\"imgs/Untitled-7.jpg\" height=\"48\" width=\"225\"/></a></li>\n" +
-        "                    <li class=\"top-left-2-1\"><a class=\"top-left-2-2\" href=\"#\"><i class=\"fas fa-search\"></i></a></li>\n" +
-        "                    <li class=\"top-left-2-1\"><a class=\"top-left-2-2\" href=\"https://tokyogateaux.vn/\">TRANG CHỦ</a></li>\n" +
-        "                    <li class=\"top-left-2-1\"><a class=\"top-left-2-2\" href=\"\">BÁNH SINH NHẬT</a>\n" +
+        "                    <li class=\"top-left-2-1\"><a class=\"top-left-2-2s\" href=\"#\"><i class=\"fas fa-search\"></i></a></li>\n" +
+        "                    <li class=\"top-left-2-1\"><a class=\"top-left-2-2s\" href=\"https://tokyogateaux.vn/\">TRANG CHỦ</a></li>\n" +
+        "                    <li class=\"top-left-2-1\"><a class=\"top-left-2-2s\" href=\"\">BÁNH SINH NHẬT</a>\n" +
         "                    <ul class=\"sub-menu\">\n" +
         "                        <li class=\"ctt-4-1\"><a class=\"ctt-4-2\" href=\"https://tokyogateaux.vn/banh-sinh-nhat/banh-sinh-nhat/banh-3-tang/\">Bánh sinh nhật hiện đại</a></li>\n" +
         "                        <li class=\"ctt-4-1\"><a class=\"ctt-4-2\" href=\"Formhtml-tu.html\">Bánh sinh nhật bé trai</a></li>\n" +
