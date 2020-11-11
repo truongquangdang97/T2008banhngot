@@ -14,11 +14,6 @@ img{
     float: left;
     width: 100%;
 }
-.container{
-    width: 1350px;
-    margin: 0 auto;
-    float: none;
-}
 .r-top-1{
     padding-top: 20px;
     float: left;
@@ -39,17 +34,6 @@ img{
 }
 .r-top-1-2{
     color: #b3b3b3;
-}
-.r-doc{
-    float: left;
-    width: 3%;
-    padding-left: 22px;
-    padding-top: 20px;
-}
-.r-ctt2{
-    height: 800px;
-    background-color: rgba(0,0,0,0.1);
-    max-width: 1px;
 }
 .r-article-1{
     position: absolute;

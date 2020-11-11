@@ -14,11 +14,6 @@ img{
     float: left;
     width: 100%;
 }
-.container{
-    width: 1350px;
-    margin: 0 auto;
-    float: none;
-}
 .header-1{
     background-color: #d11a59;
     width: 100%;
@@ -221,7 +216,7 @@ img{
 }
 .ctt{
     float: left;
-    width: 23%;
+    width: 25%;
     padding: 20px 15px 0 0;
 }
 .ctt-body{
@@ -230,7 +225,7 @@ img{
 }
 .article{
     float: left;
-    width: 74%;
+    width: 75%;
     padding: 20px 0 0 15px;
 }
 .ctt-1{
@@ -258,9 +253,11 @@ img{
 }
 .ctt-3-2{
     width: 40px;
-    height: 38.800px;
+    height: 38.8px;
     border: none;
-    position: absolute;
+    position: relative;
+    bottom: 38.8px;
+    left: 225px;
     background: #d11a59;
     transition: .3s;
 }
@@ -274,9 +271,6 @@ img{
     color: white;
     font-size: 18px;
     margin-top: 5px;
-}
-.ctt-4{
-  padding-top: 20px;
 }
 .ctt-4 ul{
     padding-top: 15px;
@@ -364,7 +358,7 @@ img{
 }
 .article-4{
     height: 70px;
-    padding-left: 48px;
+    padding-left: 34px;
     padding-bottom: 35px;
 }
 .article-4-1{
@@ -382,7 +376,7 @@ img{
     background-color: #a71245;
 }
 .chap{
-    padding-left: 400px;
+    padding-left: 335px;
 }
 .chap li{
     float: left;
