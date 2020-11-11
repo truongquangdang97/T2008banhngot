@@ -35,10 +35,6 @@ function aside(){
         "                            <li class=\"ctt-4-1\"><a class=\"ctt-4-2\" href=\"https://tokyogateaux.vn/banh-sinh-nhat/banh-sinh-nhat/banh-3-tang/\">Bánh sinh nhật trường lớp</a></li>\n" +
         "                        </ul>\n" +
         "                    </div>\n" +
-        "                    <div class=\"ctt-5\">\n" +
-        "                        <h4><b class=\"ctt-1\">FILTER BY PRICE</b></h4>\n" +
-        "                        <div class=\"ctt-2\"></div>\n" +
-        "                    </div>\n" +
         "                </div>\n" +
         "            </aside>"
 }
