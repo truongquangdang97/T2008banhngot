@@ -1,3 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 .a{
     width: 30px;
     height: 30px;
@@ -59,3 +64,23 @@
 .q4:hover{
     background-color: chocolate;
 }
+.g{
+    margin-bottom: 50px;
+    color: #999999;
+    font-size: 16px;
+}
+.g li{
+    float: left;
+    margin-left: 18px;
+    list-style: none;
+
+}
+.g1{
+    color: #999999;
+}
+.g1:hover{
+    color: black;
+    text-decoration: none;
+
+}
+
