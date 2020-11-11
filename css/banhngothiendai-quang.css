@@ -200,11 +200,13 @@
     list-style: none;
     margin-left: 20px;
 }
+.nav{
+    background-color: #c7254e;
 
+}
 
 .nav1{
     height: 70px;
-    background-color: #c7254e;
     color: #ffffff;
 }
 .d li{
