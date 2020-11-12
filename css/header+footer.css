@@ -204,13 +204,14 @@ img{
     padding-top: 20px;
 }
 .top-left-2-2s{
+    position: relative;
+
     font-size: 15px;
     font-weight: bold;
     color: rgba(102,102,102,0.85);
     transition: .3s;
 }
 .top-left-2-2s:hover{
-    position: relative;
     color: rgba(17,17,17,0.85);
     text-decoration: none;
 }
